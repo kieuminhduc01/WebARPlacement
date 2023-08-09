@@ -1,10 +1,10 @@
 {
 "companyName": "DefaultCompany",
-"productName": "My project",
+"productName": "WebXR_Placement",
 "productVersion": "0.1",
-"dataUrl": "Animal_build.data.unityweb",
-"wasmCodeUrl": "Animal_build.wasm.code.unityweb",
-"wasmFrameworkUrl": "Animal_build.wasm.framework.unityweb",
+"dataUrl": "Animal_Build.data.unityweb",
+"wasmCodeUrl": "Animal_Build.wasm.code.unityweb",
+"wasmFrameworkUrl": "Animal_Build.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
@@ -12,5 +12,5 @@
 "cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
 "multithreading": false,
-"unityVersion": "2019.4.13f1"
+"unityVersion": "2019.4.1f1"
 }
